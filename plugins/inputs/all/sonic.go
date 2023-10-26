@@ -1,0 +1,1 @@
+//go:build !custom || inputs || inputs.sonic_telemetry_gnmipackage allimport _ "github.com/ljyfree/telegraf/blob/master/plugins/inputs/sonic_telemetry/sonic_telemetry_gnmi.go" // register plugin
